@@ -1,0 +1,28 @@
+_repo: The-United-Empire-Loyalists---A-Chronicle-of-the-Great-Migration_11977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, W. Stewart (William Stewart)
+    aliases:
+    - Wallace, William Stewart
+    - Wallace, W. S. (William Stewart)
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '4156'
+    url: http://www.gutenberg.org/2009/agents/4156
+description: 'Chronicles of Canada series: Volume 13'
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United Empire loyalists'
+- !lcsh 'American loyalists'
+- !lcc 'E201'
+- GITenberg
+title: 'The United Empire Loyalists : A Chronicle of the Great Migration'
+url: http://www.gutenberg.org/ebooks/11977
